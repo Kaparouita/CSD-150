@@ -1,0 +1,404 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oki",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-373dc31c2085cd3e3ee1.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-64087ffce6c556a79733.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask1-Debug-f0aee949f148b7b3b001.json",
+					"name" : "ask1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask2-Debug-d392aa4c1e39f663b4a8.json",
+					"name" : "ask2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask3-Debug-86c5469afbac6ba72f74.json",
+					"name" : "ask3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask4-Debug-c804db9a374f76ee7987.json",
+					"name" : "ask4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask5-Debug-aa0c3f6dab7112b0c8c4.json",
+					"name" : "ask5",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oki",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-373dc31c2085cd3e3ee1.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-64087ffce6c556a79733.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask1-Release-f3d14fd255227b9ad8a6.json",
+					"name" : "ask1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask2-Release-dc7db357185e22fdb84c.json",
+					"name" : "ask2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask3-Release-42b3e44bc139b942753b.json",
+					"name" : "ask3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask4-Release-ffe313ea65abb9754f73.json",
+					"name" : "ask4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask5-Release-30da8c0e880133392174.json",
+					"name" : "ask5",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oki",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-373dc31c2085cd3e3ee1.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-64087ffce6c556a79733.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask1-MinSizeRel-5e9a6c896678129447a9.json",
+					"name" : "ask1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask2-MinSizeRel-629a91e51caef770c939.json",
+					"name" : "ask2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask3-MinSizeRel-c42649b3e3cd86030b5f.json",
+					"name" : "ask3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask4-MinSizeRel-ee3943f71fef9fc2ae59.json",
+					"name" : "ask4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask5-MinSizeRel-e8756ddae9e96e689113.json",
+					"name" : "ask5",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oki",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-373dc31c2085cd3e3ee1.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-64087ffce6c556a79733.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask1-RelWithDebInfo-588a77283ffba37d3e98.json",
+					"name" : "ask1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask2-RelWithDebInfo-cb63b822d5a028315c2c.json",
+					"name" : "ask2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask3-RelWithDebInfo-aa6b522c8483a620650a.json",
+					"name" : "ask3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask4-RelWithDebInfo-d64d6057663d34106b05.json",
+					"name" : "ask4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ask5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ask5-RelWithDebInfo-e61771368e30f9290b44.json",
+					"name" : "ask5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/csd2/HY150/assignment1/build",
+		"source" : "D:/csd2/HY150/assignment1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

@@ -1,0 +1,476 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6
+					]
+				},
+				{
+					"build" : "Ask4",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Ask4",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Ask4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-d278517910294524deea.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask1.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask1.exe-Debug-695db150b0b6a97c3746.json",
+					"name" : "Ask1.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask2.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask2.exe-Debug-5c8fd0a7db60ffa0a566.json",
+					"name" : "Ask2.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask3.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask3.exe-Debug-95af7f3b4efba0503032.json",
+					"name" : "Ask3.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask4.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask4.exe-Debug-915651ceab321cbd87d1.json",
+					"name" : "Ask4.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Ask4Lib::@6404a66ba0de745d8f7d",
+					"jsonFile" : "target-Ask4Lib-Debug-425e4dd913c033d89c17.json",
+					"name" : "Ask4Lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-633f80eedaa33b434b12.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6
+					]
+				},
+				{
+					"build" : "Ask4",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Ask4",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Ask4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-d278517910294524deea.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask1.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask1.exe-Release-f6888ea89fd708a88e1b.json",
+					"name" : "Ask1.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask2.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask2.exe-Release-1088ccdbbf312982146a.json",
+					"name" : "Ask2.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask3.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask3.exe-Release-d12feab3a739db761c81.json",
+					"name" : "Ask3.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask4.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask4.exe-Release-13001bf8487cb1003c94.json",
+					"name" : "Ask4.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Ask4Lib::@6404a66ba0de745d8f7d",
+					"jsonFile" : "target-Ask4Lib-Release-742ada327f977677295a.json",
+					"name" : "Ask4Lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-633f80eedaa33b434b12.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6
+					]
+				},
+				{
+					"build" : "Ask4",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Ask4",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Ask4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-d278517910294524deea.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask1.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask1.exe-MinSizeRel-cdc2f841e48154b1f24f.json",
+					"name" : "Ask1.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask2.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask2.exe-MinSizeRel-486d2e6ab653f3c79081.json",
+					"name" : "Ask2.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask3.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask3.exe-MinSizeRel-d50c875920c6a421e4b0.json",
+					"name" : "Ask3.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask4.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask4.exe-MinSizeRel-820dd01d7620ef439036.json",
+					"name" : "Ask4.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Ask4Lib::@6404a66ba0de745d8f7d",
+					"jsonFile" : "target-Ask4Lib-MinSizeRel-038dd00c062922960e13.json",
+					"name" : "Ask4Lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-633f80eedaa33b434b12.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6
+					]
+				},
+				{
+					"build" : "Ask4",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Ask4",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Ask4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-d278517910294524deea.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask1.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask1.exe-RelWithDebInfo-dfbec133b871c132ff99.json",
+					"name" : "Ask1.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask2.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask2.exe-RelWithDebInfo-4f297b89103ea15e7554.json",
+					"name" : "Ask2.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask3.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask3.exe-RelWithDebInfo-d2308f3b86d97224d1de.json",
+					"name" : "Ask3.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ask4.exe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ask4.exe-RelWithDebInfo-9b182ae268fbc23b3cec.json",
+					"name" : "Ask4.exe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Ask4Lib::@6404a66ba0de745d8f7d",
+					"jsonFile" : "target-Ask4Lib-RelWithDebInfo-cd08ae1f41473f18c75b.json",
+					"name" : "Ask4Lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-633f80eedaa33b434b12.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/csd2/HY150/Ask2/build",
+		"source" : "D:/csd2/HY150/Ask2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

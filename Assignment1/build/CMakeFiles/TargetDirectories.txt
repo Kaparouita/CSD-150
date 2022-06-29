@@ -1,0 +1,7 @@
+D:/csd2/HY150/assignment1/build/CMakeFiles/ask1.dir
+D:/csd2/HY150/assignment1/build/CMakeFiles/ask2.dir
+D:/csd2/HY150/assignment1/build/CMakeFiles/ask3.dir
+D:/csd2/HY150/assignment1/build/CMakeFiles/ask4.dir
+D:/csd2/HY150/assignment1/build/CMakeFiles/ask5.dir
+D:/csd2/HY150/assignment1/build/CMakeFiles/ALL_BUILD.dir
+D:/csd2/HY150/assignment1/build/CMakeFiles/ZERO_CHECK.dir

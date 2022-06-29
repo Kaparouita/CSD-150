@@ -1,0 +1,7 @@
+D:/csd2/HY150/Ask2/build/CMakeFiles/Ask1.exe.dir
+D:/csd2/HY150/Ask2/build/CMakeFiles/Ask2.exe.dir
+D:/csd2/HY150/Ask2/build/CMakeFiles/Ask3.exe.dir
+D:/csd2/HY150/Ask2/build/CMakeFiles/Ask4.exe.dir
+D:/csd2/HY150/Ask2/build/CMakeFiles/ALL_BUILD.dir
+D:/csd2/HY150/Ask2/build/CMakeFiles/ZERO_CHECK.dir
+D:/csd2/HY150/Ask2/build/Ask4/CMakeFiles/Ask4Lib.dir
